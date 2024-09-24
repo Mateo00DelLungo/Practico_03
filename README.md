@@ -1,7 +1,6 @@
 
-# Proyecto[Practica_02]
+# Proyecto[Practica_03]
 
-#### Ejercicio Práctico sobre WebApi utilizando ASP.NET CORE.
 
 Tomando como base la actividad Actividad Práctica 02, se pide:
 
